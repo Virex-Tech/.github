@@ -20,54 +20,42 @@ That last part changes how we write everything else. When you carry the pager fo
 
 <table align="center">
 <tr>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-</tr>
-<tr>
 <td align="center" valign="top">
-&nbsp;<br/>
+<img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /><br/>
 <a href="https://buildtracker.com.br"><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/logo-buildtracker.png" width="76" alt="BuildTracker" /></a>
 <br/><br/>
 <b>BuildTracker</b>
-<br/><sub>App Store intelligence and ASO. Rankings, keywords and revenue estimates, collected every night.</sub>
+<br/><sub>App Store intelligence &amp; ASO</sub>
 <br/><br/>
 <a href="https://buildtracker.com.br"><sub>buildtracker.com.br</sub></a>
 <br/>&nbsp;
 </td>
 <td align="center" valign="top">
-&nbsp;<br/>
+<img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /><br/>
 <a href="https://paywallo.com.br"><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/logo-paywallo.png" width="76" alt="Paywallo" /></a>
 <br/><br/>
 <b>Paywallo</b>
-<br/><sub>Ad attribution and app analytics. Campaign spend matched against what the app actually earns.</sub>
+<br/><sub>Ad attribution &amp; app analytics</sub>
 <br/><br/>
 <a href="https://paywallo.com.br"><sub>paywallo.com.br</sub></a>
 <br/>&nbsp;
 </td>
 <td align="center" valign="top">
-&nbsp;<br/>
+<img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /><br/>
 <a href="https://www.ozempro.com"><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/logo-ozempro.png" width="76" alt="OzemPro" /></a>
 <br/><br/>
 <b>OzemPro</b>
-<br/><sub>GLP-1 treatment companion. Doses, side effects and progress.</sub>
+<br/><sub>GLP-1 treatment companion</sub>
 <br/><br/>
 <a href="https://www.ozempro.com"><sub>ozempro.com</sub></a>
 <br/>&nbsp;
 </td>
 <td align="center" valign="top">
-&nbsp;<br/>
+<img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /><br/>
 <a href="https://fitcalai.app"><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/logo-fitcal.png" width="76" alt="FitCal" /></a>
 <br/><br/>
 <b>FitCal</b>
-<br/><sub>AI calorie counter and food scanner, on a 109-endpoint API.</sub>
+<br/><sub>AI calorie counter &amp; food scanner</sub>
 <br/><br/>
 <a href="https://fitcalai.app"><sub>fitcalai.app</sub></a>
 <br/>&nbsp;
@@ -90,18 +78,6 @@ That last part changes how we write everything else. When you carry the pager fo
 <h3 align="center">How we build</h3>
 
 <table align="center">
-<tr>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/Virex-Tech/.github/main/profile/assets/spacer.png" width="215" height="1" alt="" /></td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
